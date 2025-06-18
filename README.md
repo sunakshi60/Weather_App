@@ -8,7 +8,7 @@ A React-based weather application that lets you check the current weather for an
 -Shows loading message while fetching data
 -Responsive and clean UI with interactive elements
 
-##Technologies Used
+## Technologies Used
 -React.js (Frontend)
 -CSS3 (Styling)
 -OpenWeatherMap API 
