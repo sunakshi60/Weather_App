@@ -1,4 +1,4 @@
-##Weather Forecasting App##
+Weather Forecasting App
 A React-based weather application that lets you check the current weather for any city around the world in real time. Built for learning, improving React skills, and experimenting with APIs.
 
 #Features
